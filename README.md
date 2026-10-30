@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚧 Yapay Zeka Ofis Otomasyonu
+# 🤖 Yapay Zeka Ofis Otomasyonu
 
 **Yapım Aşamasında · Mobil Kontrol**
 
